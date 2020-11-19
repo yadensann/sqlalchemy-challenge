@@ -18,5 +18,3 @@ Used Python and SQLAlchemy to do basic climate analysis and data exploration of 
 - Designed a query to retrieve the last year of temperature observation data (TOBS).
 - Filtered by the station with the highest number of observations.
 
-
-![SurfsUP](https://github.com/yadensann/sqlalchemy-challenge/blob/main/Surfs%20Up/PNG%20files/prcp_analysis.png)
